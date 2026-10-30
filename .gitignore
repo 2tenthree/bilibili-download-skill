@@ -1,0 +1,13 @@
+# 本仓库不含任何登录凭据或下载产物
+cookies/
+*.mp4
+*.m4a
+*.part
+dl-tmp/
+.downloaded.txt
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
